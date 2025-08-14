@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Combo Offer – ₹170 Only</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            background-color: #fff8f0;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #ff5722;
+            padding: 20px;
+            color: white;
+        }
+        img {
+            max-width: 90%;
+            border-radius: 10px;
+        }
+        button {
+            background-color: #28a745;
+            color: white;
+            border: none;
+            padding: 15px 30px;
+            font-size: 18px;
+            border-radius: 5px;
+            cursor: pointer;
+            margin-top: 20px;
+        }
+        button:hover {
+            background-color: #218838;
+        }
+        .offer {
+            font-size: 24px;
+            font-weight: bold;
+            margin-top: 10px;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>🇮🇳 Combo Offer – 7 Items ₹170 Only</h1>
+</header>
+
+<p class="offer">🍕 Pizzas + 🥤 Drink Included</p>
+<img src="https://i.ibb.co/5GfKwzF/pizza-drink.jpg" alt="Pizza and Drink">
+
+<p>✅ COD Available for Lifetime<br>
+✅ 100000+ Happy Customers<br>
+✅ Trusted Indian Vibe</p>
+
+<a href="https://wa.me/919023595325?text=Hello%2C%20I%20want%20to%20order%20the%20₹170%20Combo%20Offer" target="_blank">
+    <button>Order Now</button>
+</a>
+
+</body>
+</html>
